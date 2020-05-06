@@ -17,7 +17,7 @@ my_NameSpace = "DeepLearningMonitor"
 
 ### CHOOSE PUSH INTERVAL ####
 sleep_interval = 30
-webhook_url="https://hooks.slack.com/services/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"
+webhook_url=""
 WaitTimeIdeal = 20  # in minutes
 Gaptime = 10  # in minutes
 ### CHOOSE STORAGE RESOLUTION (BETWEEN 1-60) ####
